@@ -17,4 +17,4 @@ or simply hardcode it inside the script.
 Visit `http://localhost:<port>/dbc/test`. Someone should greet you.
 
 
-[post]: http://localhost:4000/2016/07/dynamic-bean-creation/
+[post]: http://blog.tlongo.de/2016/07/dynamic-bean-creation/
